@@ -20,7 +20,7 @@
         echo "<br><strong>Valor 2: </strong>" .$valor2;
         echo "<hr align='left' color= '#FFFF00' width='350' size=3>";
 
-        
+
         echo "<h4>Cálculo do operador matemático soma:</h4>";
         echo "<br>A soma de $valor1 e $valor2 é $adicao";
         echo "<hr align='left' color= '#0000ff' width='350' size=3>";
@@ -42,7 +42,7 @@
         echo var_dump($valor2) . " - <em>Variável do tipo <b>inteiro</b></em><br>";
         echo "<hr align='left' color= '#00FF00' width='350' size=3>";
 
-        
+
     ?>
 </body>
-</html> 
+</html>
